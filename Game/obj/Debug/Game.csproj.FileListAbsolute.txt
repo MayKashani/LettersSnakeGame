@@ -1,0 +1,22 @@
+C:\Users\May\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\May\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\May\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\May\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\May\source\repos\Game\Game\obj\Debug\Game.HomePage.resources
+C:\Users\May\source\repos\Game\Game\obj\Debug\Game.GameBoard.resources
+C:\Users\May\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\May\source\repos\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\May\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\May\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\May\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\bin\Debug\Game.exe.config
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\bin\Debug\Game.exe
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\bin\Debug\Game.pdb
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\obj\Debug\Game.HomePage.resources
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\obj\Debug\Game.GameBoard.resources
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\obj\Debug\Game.exe
+C:\Users\May\Desktop\מדעי המחשב\שנה א'\סמסטר ב'\תכנות מונחה עצמים\תרגילי בית- פתרון\מטלה מספר 4\Game20.05May (2)\Game\Game\obj\Debug\Game.pdb
